@@ -11,3 +11,7 @@ scikit-learn==1.4.1.post1
 seaborn==0.13.2
 lightning==2.2.1
 jupyterlab==4.1.4
+faiss-cpu==1.8.0
+nlpaug==1.1.11
+sacremoses==0.1.1
+networkx==3.2.1
